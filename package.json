@@ -1,0 +1,33 @@
+{
+  "name": "@ghostff/ini_parser",
+  "version": "1.0.1",
+  "description": "Converts an .ini file/string to javascript object.",
+  "main": "./lib/ini-parser.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ghostff/ini-parser.git"
+  },
+  "keywords": [
+    "ini",
+    "ini file parser",
+    "ini parser",
+    "ini section",
+    "ini scan"
+  ],
+  "author": "ghostff <frankchris@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ghostff/ini-parser/issues"
+  },
+  "homepage": "https://github.com/Ghostff/ini-parser#readme"
+}
